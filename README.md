@@ -1,5 +1,7 @@
 # MCP Server Playground
 
+[![smithery badge](https://smithery.ai/badge/mcp-server-playground)](https://smithery.ai/server/mcp-server-playground)
+
 This repository is a playground for experimenting with an MCP Server built with TypeScript. It is a personalized version of the tutorial and video on building an MCP Server, and it is intended both as a learning resource and a platform to test integrations with Calude Desktop and Cursor IDE.
 
 ## Background
@@ -24,6 +26,14 @@ The original tutorial provided a foundation which I have extended. Alongside the
 - Node.js (v12 or higher)
 - npm (or Yarn, based on your preference)
 - TypeScript (if not installed globally)
+
+### Installing via Smithery
+
+To install MCP Server Playground for Claude Desktop automatically via [Smithery](https://smithery.ai/server/@psaboia/mcp-server-example):
+
+```bash
+npx -y @smithery/cli install mcp-server-playground --client claude
+```
 
 ### Installation
 
