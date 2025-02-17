@@ -1,6 +1,7 @@
 # MCP Server Playground
 
-[![smithery badge](https://smithery.ai/badge/mcp-server-playground)](https://smithery.ai/server/mcp-server-playground)
+
+[![smithery badge](https://smithery.ai/badge/@psaboia/mcp-server-playground)](https://smithery.ai/server/@psaboia/mcp-server-playground)
 
 This repository is a playground for experimenting with an MCP Server built with TypeScript. It is a personalized version of the tutorial and video on building an MCP Server, and it is intended both as a learning resource and a platform to test integrations with Calude Desktop and Cursor IDE.
 

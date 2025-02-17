@@ -1,5 +1,5 @@
 {
-  "name": "mcp-server-playground",
+  "name": "@psaboia/mcp-server-playground",
   "version": "0.1.0",
   "description": "A Model Context Protocol server example",
   "private": true,

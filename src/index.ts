@@ -54,7 +54,7 @@ async function main() {
       if (typeof args?.a !== 'number' || typeof args?.b !== 'number') {
         throw new McpError(ErrorCode.InvalidRequest, "Arguments 'a' and 'b' must be numbers");
       }
-      return { toolResult: args.a + args.b};
+      return { toolResult: args.a + args.b} ;
     }
     if (request.params.name === "httpbin_json") {
         try {
