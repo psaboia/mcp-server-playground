@@ -29,7 +29,7 @@ The original tutorial provided a foundation which I have extended. Alongside the
 
 ### Installing via Smithery
 
-To install MCP Server Playground for Claude Desktop automatically via [Smithery](https://smithery.ai/server/@psaboia/mcp-server-example):
+To install MCP Server Playground for Claude Desktop automatically via [Smithery](https://smithery.ai/server/@psaboia/mcp-server-playground):
 
 ```bash
 npx -y @smithery/cli install mcp-server-playground --client claude
@@ -40,7 +40,7 @@ npx -y @smithery/cli install mcp-server-playground --client claude
 1. Clone the repository:
    ```bash
    git clone <repo_url>
-   cd mcp-server
+   cd mcp-server-playground
    ```
 2. Install dependencies:
    ```bash
@@ -50,10 +50,7 @@ npx -y @smithery/cli install mcp-server-playground --client claude
    ```bash
    npm run build
    ```
-4. Start the server:
-   ```bash
-   npm start
-   ```
+
 
 ### Configuration
 
@@ -71,7 +68,7 @@ This project uses environment variables. Create a `.env` file to set your config
 ## Project Structure
 
 ```
-mcp-server/
+mcp-server-playground/
 ├── src/                # Source code directory
 │   └── index.ts       # Main server implementation
 ├── build/             # Compiled JavaScript files

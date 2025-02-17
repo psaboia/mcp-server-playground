@@ -11,7 +11,7 @@ import {
 
 async function main() {
   const server = new Server({
-    name: "mcp-server",
+    name: "mcp-server-playground",
     version: "1.0.0",
   }, {
     capabilities: {

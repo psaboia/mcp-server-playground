@@ -4,7 +4,7 @@ import { StdioServerTransport } from "@modelcontextprotocol/sdk/server/stdio.js"
 import { CallToolRequestSchema, ErrorCode, ListToolsRequestSchema, McpError, } from "@modelcontextprotocol/sdk/types.js";
 async function main() {
     const server = new Server({
-        name: "mcp-server",
+        name: "mcp-server-playground",
         version: "1.0.0",
     }, {
         capabilities: {
