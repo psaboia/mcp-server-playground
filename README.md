@@ -3,6 +3,10 @@
 
 [![smithery badge](https://smithery.ai/badge/@psaboia/mcp-server-playground)](https://smithery.ai/server/@psaboia/mcp-server-playground)
 
+<a href="https://glama.ai/mcp/servers/fylny5odo3">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/fylny5odo3/badge" alt="Server Playground MCP server" />
+</a>
+
 This repository is a playground for experimenting with an MCP Server built with TypeScript. It is a personalized version of the tutorial and video on building an MCP Server, and it is intended both as a learning resource and a platform to test integrations with Calude Desktop and Cursor IDE.
 
 ## Background
